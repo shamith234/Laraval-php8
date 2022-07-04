@@ -9,8 +9,8 @@ services:
     environment:
       MYSQL_DATABASE: laravel_8_api_crud
       MYSQL_USER: admin
-      MYSQL_PASSWORD: Neverdown001
-      MYSQL_ROOT_PASSWORD: Neverdown001
+      MYSQL_PASSWORD: Never
+      MYSQL_ROOT_PASSWORD: Never
     ports:
       - '3308:3306'
 
